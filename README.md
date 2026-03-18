@@ -7,7 +7,8 @@ This repository provides a basic, hands-on introduction to the fundamentals of v
 ### **🛠 Getting Started**
 All lab instructions, documentation, and interactive guides are centralized in the index.html file. You can access the full experience in two ways:
 
-View Online (Recommended): https://sugiantoliau.github.io/
+View Online: 
+<a href="https://sugiantoliau.github.io/" target="_blank" rel="noopener noreferrer">https://sugiantoliau.github.io</a>
 
 
 ### **🛠 How to Use **
