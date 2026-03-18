@@ -1,7 +1,7 @@
 # sugiantoliau.github.io
 
 ### **🛠 Project Overview**
-This repository provides a basic, hands-on introduction to the fundamentals of various programming languages and database management systems. It guides users through essential workflows—such as CRUD operations, environment setup, and core syntax—by providing practical, step-by-step exercises and real-world code snippets.
+This repository provides a basic, hands-on introduction to the fundamentals of various programming languages, database systems and IoT. It guides users through essential workflows—such as CRUD operations, environment setup, and core syntax—by providing practical, step-by-step exercises and real-world code snippets.
 
 <br>
 
