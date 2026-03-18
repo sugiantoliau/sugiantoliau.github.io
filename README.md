@@ -12,9 +12,7 @@ View Online: https://sugiantoliau.github.io
 
 <br>
 
-### **🛠 Getting Started**
-
-### **🛠 How to Use **
+### **🛠 How to Use**
 
 Navigate: Use the menu within the web interface to select the technology you wish to learn.
 
